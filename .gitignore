@@ -1,0 +1,14 @@
+.vscode
+maildir
+apache_ml
+.idea
+.DS_Store
+*.csv
+*.db
+dump.rdb
+/sample_log
+**/__pycache__/*
+profiler/
+*.ipynb
+*.log
+extract*
