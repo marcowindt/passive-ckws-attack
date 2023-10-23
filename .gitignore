@@ -10,5 +10,6 @@ dump.rdb
 **/__pycache__/*
 profiler/
 *.ipynb
+!notebooks/*
 *.log
 extract*
